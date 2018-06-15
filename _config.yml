@@ -1,6 +1,6 @@
 title: Max Baylis
 
-theme: cypher-jekyll-theme
+remote_theme: cypher-jekyll-theme
 
 plugins:
   - jekyll-feed
