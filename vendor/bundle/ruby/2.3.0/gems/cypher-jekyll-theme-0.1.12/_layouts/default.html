@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
+  <body>
+    <section id="posts">
+      {{ content }}
+      <a href="{{ "/" | relative_url}}">
+        {% include svg/ghost_icon.svg %}
+      </a>
+    </section>
+  </body>
+</html>

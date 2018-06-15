@@ -1,0 +1,6 @@
+title: Max Baylis
+
+theme: cypher-jekyll-theme
+
+plugins:
+  - jekyll-feed
